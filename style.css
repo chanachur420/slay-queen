@@ -1,0 +1,27 @@
+
+html{
+    background-color: black;
+  }
+h1{
+  font-family: 'BioRhyme', serif;
+font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+color: white;
+text-align: center;
+text-transform: uppercase;
+background-color: #255C99;
+}
+p{
+  text-align: center;
+  color: white;
+  background-color: red;
+}
+.gg{
+  width: 100%;
+  border: 5px solid white;
+  margin-top: 30%;
+}
+
+.no{
+ margin-left: 35%; 
+}
